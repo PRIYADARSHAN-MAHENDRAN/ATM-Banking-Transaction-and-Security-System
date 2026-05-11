@@ -1,0 +1,25 @@
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Build folders
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
